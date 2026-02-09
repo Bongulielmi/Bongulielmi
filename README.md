@@ -1,4 +1,4 @@
-![Greeting SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&background=00000000&center=false&vCenter=true&repeat=false&width=1000&height=50&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Remigio+Bongulielmi)
+(https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&background=00000000&center=false&vCenter=true&repeat=false&width=1000&height=50&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Remigio+Bongulielmi) ![Greeting SVG]
 
 🔧 CTO | Systems Thinker | Ops + AI | Lean Six Sigma MBB | 15+ yrs global
 XP | Trained 1,200+
