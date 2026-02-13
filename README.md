@@ -6,9 +6,21 @@ XP | Trained 1,200+
 innovation
 🌍 Based in Switzerland | Building globally
 
+[![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Codex](https://img.shields.io/badge/Codex-000000?logo=openai&logoColor=white)](https://openai.com/)
+[![Claude](https://img.shields.io/badge/Claude-111111?logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+[![CLI](https://img.shields.io/badge/CLI-Terminal-black?logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![Web](https://img.shields.io/badge/Web-Development-4285F4?logo=google-chrome&logoColor=white)](#)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thesingularity-blue?logo=linkedin)](https://www.linkedin.com/in/thesingularity/)
 [![Website](https://img.shields.io/badge/Website-bongulielmi.com-green)](https://www.remigiobongulielmi.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Bongulielmi-000000?logo=github&logoColor=white)](https://github.com/Bongulielmi)
+
 
 ---
 
